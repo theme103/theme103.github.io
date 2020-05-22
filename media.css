@@ -1,0 +1,30 @@
+@media screen and (max-width:1000px){
+  .types-second{
+    width:100%;
+    display: inline-block;
+    border:2px solid black;
+    background:white;
+    box-shadow:3px 3px 10px ;
+    margin-top:20px;
+  }
+  .types{
+    width:100%;
+    display: inline-block;
+    border:2px solid black;
+    background:white;
+    box-shadow:3px 3px 10px ;
+    margin-top:20px;
+  }
+  .plus-material{
+    background:#5B68A3;
+    padding-left:25px;
+    padding-top:25px;
+    padding-right:25px;
+    padding-bottom:25px;
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    height:auto;
+  }
+  /*For media */.tpl_hamburger svg
+   {cursor: pointer;  height: 100px;  transform: translate3d(0px, 0px, 0px);  width: 130px;}
+}
